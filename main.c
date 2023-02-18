@@ -3,7 +3,7 @@
 //Periodo: 2
 //Recife - PE
 
-
+#include <string.h>
 #include <stdio.h>
 #include <stdlib.h>
 #define SIZE 200
